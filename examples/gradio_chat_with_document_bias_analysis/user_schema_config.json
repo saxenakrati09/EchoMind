@@ -1,0 +1,4 @@
+{"schema": {"expertise": ["novice", "expert"],
+"time_availability": ["in a hurry", "not in a hurry"]},
+"prompt": {"expertise": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"time_availability": "- If the user is `in a hurry,` deliver concise responses (1–2 lines).- If the user is `not in a hurry,` provide detailed, in-depth explanations."}}

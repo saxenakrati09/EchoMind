@@ -1,0 +1,6 @@
+{"schema": {"expertise_in_AI": ["novice", "expert"],
+"expertise_in_biology": ["novice", "expert"],
+"required_response": ["detailed explanation with examples", "small explanation"]},
+"prompt": {"expertise_in_AI": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"expertise_in_biology": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"required_response": "- If the user wants `detailed explanation with examples,` deliver explanations in detail with examples for the concepts the user is not expert in.- If the user wants `small explanation,` provide in-depth explanations, of only the concepts that the user is not expert in."}}

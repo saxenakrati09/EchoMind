@@ -1,0 +1,12 @@
+{"schema": {"expertise": ["novice", "expert"],
+"time_availability": ["in a hurry", "not in a hurry"]},
+"prompt": {"expertise": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"time_availability": "- If the user is `in a hurry,` deliver concise responses (1–2 lines).- If the user is `not in a hurry,` provide detailed, in-depth explanations."}}
+
+
+{"schema": {"expertise_in_AI": ["novice", "expert"],
+"expertise_in_biology": ["novice", "expert"],
+"required_response": ["detailed explanation with examples", "small explanation"]},
+"prompt": {"expertise_in_AI": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"expertise_in_biology": "- For a novice, use clear and simple language with illustrative examples. - For an expert, include technical details and deeper insights as needed.",
+"required_response": "- If the user wants `detailed explanation with examples,` deliver explanations in detail with examples for every concept.- If the user wants `small explanation,` provide in-depth explanations, but no need of examples."}}

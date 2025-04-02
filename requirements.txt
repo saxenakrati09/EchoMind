@@ -1,0 +1,7 @@
+openai
+icecream
+hashlib
+langchain_community
+langchain
+langchain_openai
+gradio

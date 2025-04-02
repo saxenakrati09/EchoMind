@@ -1,0 +1,9 @@
+docs/
+faiss_index/
+museum_data/
+__pycache__/
+generated_data/
+*.egg-info/
+*.egg/
+*.log
+*.pyc
